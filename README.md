@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Computer Science Student | Web Developer | Python Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Passionate+CS+Student+from+ITER;Web+Developer+%7C+Python+Programmer;Always+Learning+New+Technologies;Building+Projects+that+Solve+Problems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Passionate+CS+Student+from+ITER;Web+Developer+%7C+Python+Programmer;Always+Learning+New+Technologies;Building+Projects+that+Solve+Problems;Curiosity+of+learning+new+Technologies" alt="Typing Animation" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 🎓 B.Tech in **Computer Science**, ITER (SOA University)  
 - 💡 Passionate about making **user-friendly projects**  
 - 🔥 Strong in **Python, Web Development, MySQL, DSA**  
-- 🌱 Always learning new technologies  
+- 🌱 Curiosity of learning new Technologies  
 - 🚀 Looking for **internship opportunities**
 
 ---
