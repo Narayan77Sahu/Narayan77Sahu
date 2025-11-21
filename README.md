@@ -1,88 +1,98 @@
-<h1 align="center">Hi 👋, I'm Narayan Sahu</h1>
-<h3 align="center">Computer Science Student | Web Developer | Problem Solver</h3>
+<!-- HEADER -->
+
+<h1 align="center">✨ Hi, I'm <strong>Narayan Sahu</strong> ✨</h1>
+<h3 align="center">🚀 Computer Science Student | Web Developer | Python Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Passionate+CS+Student+from+ITER;Web+Developer+%7C+Python+Programmer;Always+Learning+New+Technologies;Building+Projects+that+Solve+Problems" alt="Typing Animation" />
+</p>
 
 ---
 
-### 👨‍💻 About Me  
-I’m a dedicated Computer Science student from **ITER, SOA University (Bhubaneswar)** with a strong interest in web development, Python programming, and building real-world, user-friendly solutions.
-
-I enjoy learning new technologies, solving problems, and creating projects that make a difference.  
-Currently looking for internship opportunities to gain hands-on experience and grow my skills.
+## 🌟 About Me  
+- 🎓 B.Tech in **Computer Science**, ITER (SOA University)  
+- 💡 Passionate about making **user-friendly projects**  
+- 🔥 Strong in **Python, Web Development, MySQL, DSA**  
+- 🌱 Always learning new technologies  
+- 🚀 Looking for **internship opportunities**
 
 ---
 
-### 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-#### **Languages**
-- Python  
-- C  
-- C++  
-- Java  
-- JavaScript  
-- SQL  
+### **Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" />
+</p>
 
-#### **Frontend**
-- HTML  
-- CSS  
-- React  
+### **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
-#### **Backend**
-- Flask (Python)
+### **Backend / Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,mysql" />
+</p>
 
-#### **Tools / Frameworks**
-- Tkinter  
+---
+
+## 🚀 My Projects
+
+### 🔹 **E-commerce Website**
+- Responsive UI, filtering system  
+- Built with **HTML, CSS, JavaScript**
+
+### 🔹 **Student Login Access System**
+- Secure login, password change  
+- Built in **Python**
+
+### 🔹 **BatchLife – Smart Resource Management App**
+- Full-stack: **Flask + MySQL + Tkinter**
+- Real-time updates and API-based operations
+
+---
+
+## 🎓 Education
+- **B.Tech CSE – ITER, SOA University** (2022–Present)  
+  ⭐ CGPA: **8.05/10**
+
+---
+
+## 🏆 Certifications
+- C Language  
 - MySQL  
+- Python Programming  
 
 ---
 
-### 🛠️ Projects
+## ✨ GitHub Stats & Animations
 
-#### 🔹 **E-commerce Website**
-- Fully responsive shopping site with clean UI.
-- Advanced product filtering (category, price, attributes).
-- Built using **HTML, CSS, JavaScript**.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" height="180"/>
+</p>
 
-#### 🔹 **Student Login Access System**
-- Secure login with password validation and change option.
-- Role-based access control and input validation.
-- Developed using **Python** with modular design.
-
-#### 🔹 **BatchLife – Smart Resource Management App**
-- Full-stack app for managing rentals, food items, essentials & orders.
-- Backend: **Flask + MySQL** (API-based operations, real-time updates).  
-- Frontend: **Tkinter** UI connected to Flask APIs.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### 🎓 Education
-- **B.Tech in Computer Science**, SOA University – ITER (2022–Present)  
-  CGPA: **8.05/10**
-- **Higher Secondary (Science)** – 73.66%  
-- **Secondary Education** – 73%
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://bit.ly/43qzC9S"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:narayansahu23109@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
+
+📍 **Berhampur, Odisha, India**  
+📞 **+91 7848893307**
 
 ---
 
-### 🏅 Certifications
-- C Language – Unitech Computer Institution  
-- MySQL – RICE  
-- Python – Lakshya Institute of Technology  
+<h2 align="center">⭐ Thanks for visiting my profile ⭐</h2>
 
----
-
-### 🌱 Extracurricular Interests
-- Bike Riding & Travel Exploration  
-- Gym & Fitness  
-- Movies & Cinematic Appreciation  
-- Interpersonal Communication  
-
----
-
-### 📫 Connect With Me
-- **Email:** narayansahu23109@gmail.com  
-- **Phone:** +91 7848893307  
-- **LinkedIn:** https://bit.ly/43qzC9S  
-- **Location:** Berhampur, Odisha, India  
-
----
-
-⭐ **Feel free to check out my repositories and connect with me!**  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line-fade.svg" />
+</p>
